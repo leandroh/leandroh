@@ -1,0 +1,19 @@
+{
+  "name": "leandroh",
+  "version": "1.0.0",
+  "description": "Leandro Parazito, the person.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandroh/leandroh.git"
+  },
+  "author": "Leandro Parazito",
+  "license": "CC0"
+}
