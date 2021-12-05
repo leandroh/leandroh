@@ -1,23 +1,13 @@
-# leandroh
+### Hi, I'm Leandro 👋
 
-> Leandro Parazito, the person.
+- 🤓 a.k.a. Parazito or Pará
+- 🚀 Building a better **software developer** experience at [Blu](https://www.blu.com.br)
+- 🌱 I’m currently learning [Elixir](http://elixir-lang.org)
+- 💬 Ask me about [Ruby](https://www.ruby-lang.org)
+- ⚡ Fun fact: Cyclist 🚴 and crypto enthusiast 📈
 
-```bash
-$ npm install leandroh
-```
+## Technologies
 
-and
-
-```js
-console.log(require('leandroh'));
-```
-
-To get my contact information.
-
-## Credits
-
-Thanks to [Fernando Daciuk](https://github.com/fdaciuk/fdaciuk), [John K Paul](https://github.com/johnkpaul/johnkpaul) and [Guillermo Rauch](https://github.com/rauchg/rauchg) for the idea!
-
-## License
-
-[CC0 1.0 Universal](https://github.com/leandroh/leandroh/blob/master/LICENSE.md)
+![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-blueviolet?style=for-the-badge&logo=elixir&logoColor=white)
+![Go](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white)
