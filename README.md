@@ -6,7 +6,7 @@
 - 🏡 Working at [Trybe](https://www.betrybe.com/)
 - ⚡ Fun fact: Amateur [cyclist](https://www.strava.com/athletes/20985328) 🚴 love trekking ⛰ and hiking 🥾
 
-## Interested in technologies such as:
+## Interested in technologies such as
 
 ![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-blueviolet?style=for-the-badge&logo=elixir&logoColor=white)
