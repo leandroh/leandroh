@@ -3,7 +3,6 @@
 - 🤓 a.k.a. Parazito or Pará
 - 🌱 I’m currently learning [Elixir](http://elixir-lang.org)
 - 💬 Ask me about [Ruby](https://www.ruby-lang.org)
-- 🏡 Working at [Trybe](https://www.betrybe.com/)
 - ⚡ Fun fact: Amateur [cyclist](https://www.strava.com/athletes/20985328) 🚴 love trekking ⛰ and hiking 🥾
 
 ## Interested in technologies such as
